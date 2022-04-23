@@ -4,6 +4,15 @@
 
 This is a barebones client and server application implemeneted mostly from scratch. **the pain.c file is not mine** but the python files are. below are screenshots of the working solution.
 
+## How to Run
+
+1) Run “python server.py” (DO NOT QUIT PROGRAM)
+2) Run “python client.py” (ON NEW TERMINAL)
+3) Finally the client should display “CONNECTION SUCCESSFUL” and the server should
+say the client is connected to your address.
+4) You will now be able to send messages to the client and server. Make sure you send a
+message to the client first then the server next and so on and so on
+
 ## Screenshot Demo
 
 ![image-000](https://user-images.githubusercontent.com/43551031/164949295-ff067f30-227b-4580-ac65-abd63c1452a4.jpg)
